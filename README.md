@@ -9,3 +9,4 @@ cassava-leaf-disease-EfficientNetB0： 得分0.602 只有1次训练 只能kaggle
 
 2020-12-21EfficientNetB3 得分：0.861 加入了rescale=1./255
 
+2020-12-22EfficientNetB3和CNN联合模型 得分：0.871
